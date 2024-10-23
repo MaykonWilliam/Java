@@ -42,21 +42,13 @@ Renovar a estadia ou encerrar automaticamente quando o pagamento das faturas for
 * **Escalabilidade:** O sistema deve suportar um grande volume de transações simultâneas, especialmente em épocas de alta demanda.
 * **Disponibilidade:** O sistema de reservas online deve estar disponível 24/7.
 
-<<<<<<< HEAD
 ##### 4\. Usuários e Intervenientes
-=======
-###### 4\. Usuários e Intervenientes
->>>>>>> 8da28f36baad2a66d42d43d8f39207eea164f046
 
 * **Hóspedes:** Usuários que podem fazer reservas, solicitar serviços e realizar pagamentos.
 * **Recepcionistas:** Funcionários do hotel responsáveis pelo atendimento presencial e pelo cadastro de novos hóspedes.
 * **Gerência:** Responsável por monitorar o funcionamento do hotel e gerar relatórios gerenciais.
 
-<<<<<<< HEAD
 ##### 5\. Requisitos Funcionais
-=======
-###### 5\. Requisitos Funcionais
->>>>>>> 8da28f36baad2a66d42d43d8f39207eea164f046
 
 | Referencia | Requisito                                                                                          |
 | ---------- | -------------------------------------------------------------------------------------------------- |
@@ -66,28 +58,16 @@ Renovar a estadia ou encerrar automaticamente quando o pagamento das faturas for
 | RF04:      | O sistema deve gerar faturas semanais com o valor das diárias, serviços e consumos.                |
 | RF05:      | O sistema deve permitir o pagamento das faturas com opção de renovação ou encerramento da estadia. |
 
-<<<<<<< HEAD
 ##### 6\. Requisitos Não Funcionais
-=======
-###### 6\. Requisitos Não Funcionais
->>>>>>> 8da28f36baad2a66d42d43d8f39207eea164f046
 | Referencia | Requisito                                                                              |
 | ---------- | -------------------------------------------------------------------------------------- |
 | RNF01      | O sistema deve suportar, no mínimo, 500 usuários simultâneos.                          |
 | RNF02      | O sistema deve utilizar criptografia para garantir a segurança dos dados dos usuários. |
 | RNF03      | O sistema deve ser acessível via desktop e dispositivos móveis.                        |
 
-<<<<<<< HEAD
 ##### 7\. Riscos
 Falha na integração dos serviços de restaurante e lavanderia pode gerar inconsistências nas cobranças.
 Alto tráfego de usuários pode causar lentidão ou indisponibilidade do sistema.
 
 ##### 8\. Conclusão
-=======
-###### 7\. Riscos
-Falha na integração dos serviços de restaurante e lavanderia pode gerar inconsistências nas cobranças.
-Alto tráfego de usuários pode causar lentidão ou indisponibilidade do sistema.
-
-###### 8\. Conclusão
->>>>>>> 8da28f36baad2a66d42d43d8f39207eea164f046
 Este sistema visa facilitar o gerenciamento de aluguéis, serviços e cobranças, promovendo uma experiência mais eficiente para hóspedes e equipe do hotel, além de otimizar a operação do estabelecimento.
