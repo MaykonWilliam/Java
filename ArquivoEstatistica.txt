@@ -1,0 +1,10 @@
+1|Cidade 1|7106
+2|Cidade 2|5742
+3|Cidade 3|1283
+4|Cidade 4|5467
+5|Cidade 5|8375
+6|Cidade 6|7220
+7|Cidade 7|4187
+8|Cidade 8|4912
+9|Cidade 9|848
+10|Cidade 10|985
